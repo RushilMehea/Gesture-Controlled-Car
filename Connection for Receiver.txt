@@ -1,0 +1,19 @@
+connection for Receiver
+
+.Both moters are connected to the moter driver(L298N moter driver)
+
+.the pins of L298N moter driver
+.In1 pin is connected to 2 pin of Arduino UNO
+.In2 pin is connected to 3 pin of Arduino UNO
+.In3 pin is connected to 4 pin of Arduino UNO
+.In4 pin is connected to 5 pin of Arduino UNO
+
+.the pins of nRF24L01
+.Vcc to 3.3V of Arduino UNO
+.GND to GND of Arduino UNO
+.CE to 7 of Arduino UNO
+.CSN to 8 of Arduino UNO
+.SCK to 13 of Arduino UNO
+.MO to 11 of Arduino UNO
+.MI to 12 of Arduino UNO
+

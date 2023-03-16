@@ -1,0 +1,16 @@
+connection for Transmitter
+
+.the pins of nRF24L01
+.Vcc to 3.3V of Arduino NANO
+.GND to GND of Arduino NANO
+.CE to 7 of Arduino NANO
+.CSN to 8 of Arduino NANO
+.SCK to 13 of Arduino NANO
+.MO to 11 of Arduino NANO
+.MI to 12 of Arduino NANO
+
+.The pins of MPU6050
+.Vcc to 5V of Arduino NANO
+.GND to GND of Arduino NANO
+.SCL to A5 of Arduino NANO
+.SDA to A4 of Arduino NANO
